@@ -2,11 +2,15 @@
   "tasks": [
     {
       "id": 1,
-      "task_name": "Complete the task1"
+      "task_name": "Complete the Angular Crud operations "
     },
     {
       "id": 2,
-      "task_name": "Complete the task 2"
+      "task_name": "Revise the Basics Concepts of angular"
+    },
+    {
+      "id": 3,
+      "task_name": "Study the Interview Qns on Angular"
     }
   ]
 }
